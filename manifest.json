@@ -1,0 +1,38 @@
+{
+  "name": "MASASHA",
+  "short_name": "MASASHA",
+  "start_url": "https://www.masasha.net/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Review dan Sinopsis KDrama, Series, dan Movies.",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7YlvS8mmo_wupett4JLf7a-VyNY3z41asfo_Pq3eDT9GisRm-BhpEjWyHz5RJZ-a_V4kxMhaRAF81ixU1hmb6MI7H-voh7u-aMvukb-iZkLMqhBZuIxZ6rubxn7aDm45R_68WtWZUcjR9OkYXynJ2Q6cgjeWT4q0-V4S3OEKGlFY_3WiP8sWADRvUxQ/s1600/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4rsjQPBUR-xY0rdm74e-hxeHLKUXLjBmfVXvYzg9QrsuMxFRmq8xwsbtxX9u3oMDKZQJidA3ul2Pab_ogMfIpH3_1S3sY75nk49ALYtr0lxTEC3wDLOeAZ7SvYl_8ZvRTL_zdsKtcFN-COskAsnx9VLwW3agzgy2zpWe5Z-NhMX5la8krJxzm2Qub7Q/s1600/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-jE2z83OgJFBrQorj_112HQIaPOWHFPCw0AkIFA6PQuahYhgAzjV8V7Mjfis2vAmFFtfCr4_MLQ-1Ibuyr4bd5ZxOibWTy75t_gi15-au6vrGn-vs4jmvbrTdW8xdjQ3ho738cjxv7Io1cY1uiurXwEgZ8UcSeHjpFJZzh-jE-nqtp6b8G1BMprNzWQ/s1600/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3Q-dxTYz098StFGUvbWqM0U-2HwKiRviVaTG6isb7SixvXdKv5MGz56SBrXEogIUwJVC42ZMRb9iQ-UagnMt-9MHUAWSAKR2VW3LIXBFjCVjfK9Y82YFiRLld3intrvNyNrb8XGEVqRsazZjj0ymAuKT1QsPQFUVXTc4VqKLpqrkEA3ppNgLHl1Lyeg/s1600/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMmBmWgifr4vYZXbZk-ru9qQc-fI508zgEUYQBts1xdVX-8IqN8sM1lhyWaXMOD83UfbbFx9mfxq9jDnJe63FIu8JtW1a44RjreDl0EsORqSgzPopvJ1pDtfDPFbof03RRgNzAmjcnPH9XlT-4bFOz5sGNuM-AwOCANT-OZOuv0xX4mOdc4foskOxUCA/s1600/apple-icon-152x152.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUuSR0LnClF5USvXrKvmGtamhDpJIa66WybaRdhzIozIEvDFKuhH7QrL5v4rXhOlKHy6HUj4doFcKOZCFVK4aSC3pfR0P9nw3HdABCIq8XF4yzAnuusHwFZYrpHCx5Zd2yQ1TG1y5MFoTX7luh6JPFJFRDhycTHOlAMKqTa6IhpPxWX47Mv2Ef-zuUOQ/s1600/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq7Qucz9gMYSOex2AIGTkwD3DjoGLgcMPtVfNlnnWshlTClXa8l-ZLveo0rG1GBccZtfKaaL_-VqFgEcfIbsEqR0yz2RJ2jI-7BXK_6_egp6JZD7dsRr5vqHV1G5nRjn_5-HaDzyNzDab5OYUaR2iUYXX91n_KlN8-1h-N6NbzBYMRhLu_M8aQstxHAQ/s512/android-chrome-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
